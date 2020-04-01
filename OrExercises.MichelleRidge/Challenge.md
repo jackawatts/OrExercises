@@ -4,7 +4,7 @@ Unfortunately isolation and quarantine measures by the government due to COVID-1
 
 Unable to procure new materials, Michelle Ridge Jewelry need to utilize their remaining raw materials as best as they can:
 
-Their range of bands, the number of mg of raw material required to manufacture each band and the total sotres of raw material available (Availability in kg) is shown in the table below:
+Their range of bands, the number of mg of raw material required to manufacture each band and the total stores of raw material available (Availability in kg) is shown in the table below:
 
 | Band         | Gold     | Silver  | Copper  | Platinum | Zinc
 |--------------|----------|---------|---------|----------|-------
