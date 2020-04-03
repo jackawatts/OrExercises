@@ -60,13 +60,13 @@ namespace OrExercises.MichelleRidge
             // Gold
             Debug.Assert(bands[0] * 7500 + bands[1] * 7500 + bands[2] * 9167 + bands[3] * 7500  <= 30 * 1000 * 1000, "Not enough Gold!");
             // Silver
-            Debug.Assert(bands[0] * 275 + bands[2] * 500 + bands[3] * 2000 <= 30 * 1000 * 1000, "Not enough Silver!");
+            Debug.Assert(bands[0] * 275 + bands[2] * 500 + bands[3] * 2000 <= 2.5 * 1000 * 1000, "Not enough Silver!");
             // Copper
-            Debug.Assert(bands[0] * 2225 + bands[2] * 200 + bands[3] * 500 <= 30 * 1000 * 1000, "Not enough Copper!");
+            Debug.Assert(bands[0] * 2225 + bands[2] * 200 + bands[3] * 500 <= 2.5 * 1000 * 1000, "Not enough Copper!");
             // Platinum
-            Debug.Assert(bands[1] * 2500 <= 30 * 1000 * 1000, "Not enough Platinum!");
+            Debug.Assert(bands[1] * 2500 <= 2 * 1000 * 1000, "Not enough Platinum!");
             // Zinc
-            Debug.Assert(bands[2] * 133 <= 30 * 1000 * 1000, "Not enough Zinc!");
+            Debug.Assert(bands[2] * 133 <= 0.1 * 1000 * 1000, "Not enough Zinc!");
         }
     }
 }
